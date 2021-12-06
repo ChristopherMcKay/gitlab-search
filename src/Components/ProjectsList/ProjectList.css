@@ -1,0 +1,39 @@
+.page-active:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+
+.page-disabled {
+  color: #AAA;
+}
+
+.list-item {
+  margin-top: 16px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.top-portion {
+  padding: 12px;
+}
+
+.top-portion:hover {
+  background-color: #EEE;
+  cursor: pointer;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.desc {
+  color: #757575;
+}
+
+.collapse {
+  padding: 12px;
+}
